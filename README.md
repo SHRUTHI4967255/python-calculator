@@ -1,2 +1,3 @@
-# python-calculator
-My first python project. A calculator that performs additions, subtractions, multiplication, division, age calculation from 2026.
+# python
+My name is Shruthi.I am a begennier in python.I started my coding in june of 2026.I did my 1st project in my holidays before joining by Btech college.
+
