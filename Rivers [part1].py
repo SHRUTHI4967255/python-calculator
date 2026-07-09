@@ -189,7 +189,10 @@ elif country == "Georgia":
     print("length of the river - 1,515")
 elif country == "Germany":
     print("Largest river - Rhine")
+
     print("length of the river - 1,230")
 
 else:
     print("Try to find in Part 2")
+    print(Press enter to exit)
+    
