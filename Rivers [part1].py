@@ -194,5 +194,7 @@ elif country == "Germany":
 
 else:
     print("Try to find in Part 2")
-    print(Press enter to exit)
+    print("Press enter to exit")
+
+
     
