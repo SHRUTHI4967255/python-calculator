@@ -31,3 +31,4 @@ print("Final Price       : ₹", final_price)
 print("=" * 45)
 
 print("Thank You!")
+print("Press enter to exit")
