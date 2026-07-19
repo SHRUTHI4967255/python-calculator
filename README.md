@@ -2,7 +2,7 @@
 
 Hi! I'm **Shruthi**, a first-year B.Tech student passionate about learning Python and building beginner-friendly projects.
 
-I started learning Python in **June 2026** during my summer holidays before joining college. This repository contains the projects I have created while learning programming step by step.
+I started learning Python in **May 2026** during my summer holidays before joining college. This repository contains the projects I have created while learning programming step by step.
 
 ## 📂 Projects Included
 
