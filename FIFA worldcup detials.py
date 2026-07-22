@@ -111,5 +111,10 @@ elif year == 2022:
     print("place - Qatar")
     print("Winner - Argentina")
     print("Runner up - France")
+elif year == 2026:
+    print("date - 19 July")
+    print("place - United states")
+    print("Winner - Spain")
+    print("Runner up - Argentina")
 
 input("Press Enter to exit.......")
